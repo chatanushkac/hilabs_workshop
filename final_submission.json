@@ -1,0 +1,2667 @@
+[
+    [
+        {
+            "entity": "Time",
+            "value": "/",
+            "confidence": 0.9261576533317566
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "rc",
+            "confidence": 0.9949100613594055
+        },
+        {
+            "entity": "Time",
+            "value": "6 : 07 : 45 am",
+            "confidence": 0.9652673602104187
+        },
+        {
+            "entity": "Time",
+            "value": "6 : 07 : 47 am",
+            "confidence": 0.9579469561576843
+        },
+        {
+            "entity": "Medication",
+            "value": "va",
+            "confidence": 0.9771356582641602
+        },
+        {
+            "entity": "Medication",
+            "value": "va",
+            "confidence": 0.9896486401557922
+        },
+        {
+            "entity": "Medication",
+            "value": "pneumococcal vaccine",
+            "confidence": 0.9949041604995728
+        },
+        {
+            "entity": "Medication",
+            "value": "influenza vaccine",
+            "confidence": 0.9984490871429443
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "respiratory failure",
+            "confidence": 0.9735927581787109
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "adult",
+            "confidence": 0.9986681938171387
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "adult pain",
+            "confidence": 0.9754806160926819
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "sb",
+            "confidence": 0.9018515944480896
+        },
+        {
+            "entity": "Lab_value",
+            "value": "greater",
+            "confidence": 0.9998652935028076
+        },
+        {
+            "entity": "Lab_value",
+            "value": "mmhg",
+            "confidence": 0.9981461763381958
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "*",
+            "confidence": 0.8607189059257507
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "hr",
+            "confidence": 0.9974823594093323
+        }
+    ],
+    [
+        {
+            "entity": "Detailed_description",
+            "value": "nextgen",
+            "confidence": 0.999618411064148
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "##\u00ae",
+            "confidence": 0.8342252373695374
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "enterprise",
+            "confidence": 0.9985003471374512
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "eh",
+            "confidence": 0.9994025230407715
+        },
+        {
+            "entity": "Date",
+            "value": "84 years 7 months",
+            "confidence": 0.9816049933433533
+        },
+        {
+            "entity": "Lab_value",
+            "value": "36",
+            "confidence": 0.891399621963501
+        },
+        {
+            "entity": "Time",
+            "value": "12 : 42 pm",
+            "confidence": 0.9853381514549255
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "ad",
+            "confidence": 0.9647554159164429
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "##ut save",
+            "confidence": 0.9458439350128174
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "del",
+            "confidence": 0.9628977179527283
+        },
+        {
+            "entity": "Duration",
+            "value": "84",
+            "confidence": 0.8559480309486389
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "alert",
+            "confidence": 0.9793797731399536
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "all",
+            "confidence": 0.9123033881187439
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "english cc",
+            "confidence": 0.8479198217391968
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "cm",
+            "confidence": 0.9872466325759888
+        },
+        {
+            "entity": "Time",
+            "value": "12 : 42 pm",
+            "confidence": 0.8794038891792297
+        },
+        {
+            "entity": "Lab_value",
+            "value": "150 % %",
+            "confidence": 0.985536515712738
+        },
+        {
+            "entity": "Lab_value",
+            "value": "1 of",
+            "confidence": 0.8799701929092407
+        },
+        {
+            "entity": "Time",
+            "value": "4 : 14 pm",
+            "confidence": 0.8873578906059265
+        },
+        {
+            "entity": "Time",
+            "value": "16 : 14 : 33 gmt",
+            "confidence": 0.8173173069953918
+        },
+        {
+            "entity": "Therapeutic_procedure",
+            "value": "em",
+            "confidence": 0.9697577357292175
+        }
+    ],
+    [
+        {
+            "entity": "Time",
+            "value": "5 : 13 : 29 pm",
+            "confidence": 0.9152960777282715
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "pt",
+            "confidence": 0.8838242888450623
+        },
+        {
+            "entity": "Lab_value",
+            "value": "mm",
+            "confidence": 0.8121248483657837
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "multiple",
+            "confidence": 0.9998453855514526
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "resistant",
+            "confidence": 0.9775038957595825
+        },
+        {
+            "entity": "Age",
+            "value": "71 - year - old",
+            "confidence": 0.9859738349914551
+        },
+        {
+            "entity": "Sex",
+            "value": "female",
+            "confidence": 0.9986717700958252
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "multiple",
+            "confidence": 0.9999099969863892
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "resistant",
+            "confidence": 0.903813362121582
+        },
+        {
+            "entity": "Medication",
+            "value": "iv",
+            "confidence": 0.9920250177383423
+        },
+        {
+            "entity": "Medication",
+            "value": "antibiotics",
+            "confidence": 0.9997536540031433
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "inc",
+            "confidence": 0.9995657801628113
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##inent",
+            "confidence": 0.996186375617981
+        },
+        {
+            "entity": "History",
+            "value": "normocephalic",
+            "confidence": 0.9189175367355347
+        },
+        {
+            "entity": "Medication",
+            "value": "medication",
+            "confidence": 0.995705783367157
+        },
+        {
+            "entity": "Therapeutic_procedure",
+            "value": "cho",
+            "confidence": 0.8835769295692444
+        },
+        {
+            "entity": "Therapeutic_procedure",
+            "value": "##cyste",
+            "confidence": 0.8752151727676392
+        },
+        {
+            "entity": "History",
+            "value": "married",
+            "confidence": 0.8387776017189026
+        },
+        {
+            "entity": "History",
+            "value": "no",
+            "confidence": 0.9935402274131775
+        },
+        {
+            "entity": "History",
+            "value": "of tobacco, alcohol or drug usage",
+            "confidence": 0.9681827425956726
+        },
+        {
+            "entity": "Personal_background",
+            "value": "white",
+            "confidence": 0.9963012933731079
+        },
+        {
+            "entity": "Sex",
+            "value": "female",
+            "confidence": 0.980811357498169
+        }
+    ],
+    [
+        {
+            "entity": "Lab_value",
+            "value": "81",
+            "confidence": 0.9615157842636108
+        }
+    ],
+    [
+        {
+            "entity": "Time",
+            "value": "3 : 56 am",
+            "confidence": 0.9859094619750977
+        },
+        {
+            "entity": "Medication",
+            "value": "medications",
+            "confidence": 0.9997522234916687
+        },
+        {
+            "entity": "Medication",
+            "value": "amlodipine",
+            "confidence": 0.9540976881980896
+        },
+        {
+            "entity": "Medication",
+            "value": "besylate",
+            "confidence": 0.9921717047691345
+        },
+        {
+            "entity": "Dosage",
+            "value": "5 mg",
+            "confidence": 0.8452015519142151
+        },
+        {
+            "entity": "Medication",
+            "value": "tablet",
+            "confidence": 0.9832080006599426
+        },
+        {
+            "entity": "Medication",
+            "value": "tablet",
+            "confidence": 0.8642102479934692
+        },
+        {
+            "entity": "Administration",
+            "value": "oral",
+            "confidence": 0.9978001713752747
+        },
+        {
+            "entity": "Frequency",
+            "value": "once a day",
+            "confidence": 0.9488046169281006
+        },
+        {
+            "entity": "Medication",
+            "value": "albuterol sulfate",
+            "confidence": 0.8590576648712158
+        },
+        {
+            "entity": "Medication",
+            "value": "hfa",
+            "confidence": 0.8887425661087036
+        },
+        {
+            "entity": "Lab_value",
+            "value": "108",
+            "confidence": 0.9867985844612122
+        },
+        {
+            "entity": "Medication",
+            "value": "aerosol solution",
+            "confidence": 0.9996356964111328
+        },
+        {
+            "entity": "Dosage",
+            "value": "1 puff",
+            "confidence": 0.9835617542266846
+        },
+        {
+            "entity": "Frequency",
+            "value": "every",
+            "confidence": 0.9174021482467651
+        },
+        {
+            "entity": "Dosage",
+            "value": "6 hrs",
+            "confidence": 0.9717497825622559
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "shortness of breath",
+            "confidence": 0.9997071027755737
+        },
+        {
+            "entity": "Medication",
+            "value": "medication",
+            "confidence": 0.9945029020309448
+        },
+        {
+            "entity": "Family_history",
+            "value": "hypertension",
+            "confidence": 0.960162878036499
+        },
+        {
+            "entity": "Family_history",
+            "value": "1 brother",
+            "confidence": 0.9288650751113892
+        },
+        {
+            "entity": "Lab_value",
+            "value": "un",
+            "confidence": 0.8759754300117493
+        },
+        {
+            "entity": "Medication",
+            "value": "amlo",
+            "confidence": 0.9969655275344849
+        },
+        {
+            "entity": "Medication",
+            "value": "##dipine",
+            "confidence": 0.8331490159034729
+        },
+        {
+            "entity": "Duration",
+            "value": "many years",
+            "confidence": 0.973392128944397
+        },
+        {
+            "entity": "Medication",
+            "value": "li",
+            "confidence": 0.9999006986618042
+        },
+        {
+            "entity": "Medication",
+            "value": "##sin",
+            "confidence": 0.9997028708457947
+        },
+        {
+            "entity": "Medication",
+            "value": "hydrochlorothiazi",
+            "confidence": 0.981665313243866
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "chronic",
+            "confidence": 0.8117424249649048
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "back",
+            "confidence": 0.9997702240943909
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "pain",
+            "confidence": 0.9999487400054932
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "left knee",
+            "confidence": 0.999713659286499
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "pain",
+            "confidence": 0.9996838569641113
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "chronic",
+            "confidence": 0.9022110104560852
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "back",
+            "confidence": 0.9998444318771362
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "pain",
+            "confidence": 0.9999386072158813
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "pain",
+            "confidence": 0.9999165534973145
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "left knee",
+            "confidence": 0.903867244720459
+        },
+        {
+            "entity": "Medication",
+            "value": "amlodipine",
+            "confidence": 0.9971509575843811
+        },
+        {
+            "entity": "Therapeutic_procedure",
+            "value": "x",
+            "confidence": 0.9972543120384216
+        },
+        {
+            "entity": "Therapeutic_procedure",
+            "value": "rays",
+            "confidence": 0.9842033386230469
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "lower back",
+            "confidence": 0.9997720718383789
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "left knee",
+            "confidence": 0.9997437000274658
+        }
+    ],
+    [
+        {
+            "entity": "Duration",
+            "value": "82",
+            "confidence": 0.9784107208251953
+        },
+        {
+            "entity": "Lab_value",
+            "value": "116. 00 lb",
+            "confidence": 0.9997438788414001
+        },
+        {
+            "entity": "Lab_value",
+            "value": "4",
+            "confidence": 0.9992570281028748
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "allergies",
+            "confidence": 0.9996262192726135
+        },
+        {
+            "entity": "Lab_value",
+            "value": "0 problems",
+            "confidence": 0.9979995489120483
+        },
+        {
+            "entity": "Medication",
+            "value": "medications",
+            "confidence": 0.9717958569526672
+        },
+        {
+            "entity": "Time",
+            "value": "01 : 27 pm",
+            "confidence": 0.9775358438491821
+        },
+        {
+            "entity": "Lab_value",
+            "value": "200 % % 1",
+            "confidence": 0.9952378273010254
+        },
+        {
+            "entity": "Time",
+            "value": "9 : 56 am",
+            "confidence": 0.9962770938873291
+        },
+        {
+            "entity": "Lab_value",
+            "value": "07",
+            "confidence": 0.8068228363990784
+        },
+        {
+            "entity": "Clinical_event",
+            "value": "discharge",
+            "confidence": 0.9150307178497314
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "toxic",
+            "confidence": 0.975517988204956
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "metabolic encephalopathy",
+            "confidence": 0.9970596432685852
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "acute",
+            "confidence": 0.9724117517471313
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "metabolic /",
+            "confidence": 0.8249529600143433
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "toxic encephalopathy",
+            "confidence": 0.9963522553443909
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "d",
+            "confidence": 0.9924490451812744
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##ysphagia",
+            "confidence": 0.9748751521110535
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "parkinson ' s disease",
+            "confidence": 0.9972139596939087
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "cognitive impairment",
+            "confidence": 0.9983258843421936
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "end - stage renal disease",
+            "confidence": 0.9767462015151978
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "hypertension",
+            "confidence": 0.9902151823043823
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "diarrhea",
+            "confidence": 0.9848265051841736
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "recent",
+            "confidence": 0.9641355872154236
+        }
+    ],
+    [
+        {
+            "entity": "Lab_value",
+            "value": "86 yo",
+            "confidence": 0.8177573680877686
+        },
+        {
+            "entity": "Lab_value",
+            "value": "86",
+            "confidence": 0.8056356310844421
+        },
+        {
+            "entity": "Lab_value",
+            "value": "86",
+            "confidence": 0.8925577998161316
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "- a",
+            "confidence": 0.8168457746505737
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "roger ts",
+            "confidence": 0.8054184913635254
+        }
+    ],
+    [
+        {
+            "entity": "Time",
+            "value": "10 : 58 : 00 am",
+            "confidence": 0.9028018116950989
+        }
+    ],
+    [
+        {
+            "entity": "Detailed_description",
+            "value": "acute",
+            "confidence": 0.9990854263305664
+        },
+        {
+            "entity": "Medication",
+            "value": "medications",
+            "confidence": 0.998814582824707
+        },
+        {
+            "entity": "Medication",
+            "value": "am",
+            "confidence": 0.9999037981033325
+        },
+        {
+            "entity": "Medication",
+            "value": "##ox",
+            "confidence": 0.999839186668396
+        },
+        {
+            "entity": "Medication",
+            "value": "##icillin",
+            "confidence": 0.9407765865325928
+        },
+        {
+            "entity": "Medication",
+            "value": "albuterol",
+            "confidence": 0.8432887196540833
+        },
+        {
+            "entity": "Medication",
+            "value": "inhaler",
+            "confidence": 0.8616476058959961
+        },
+        {
+            "entity": "Date",
+            "value": "79 years 2 months",
+            "confidence": 0.92409348487854
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "ad",
+            "confidence": 0.9686726331710815
+        },
+        {
+            "entity": "Lab_value",
+            "value": "124",
+            "confidence": 0.9992602467536926
+        },
+        {
+            "entity": "Lab_value",
+            "value": "125 % % 1 of",
+            "confidence": 0.8760345578193665
+        }
+    ],
+    [
+        {
+            "entity": "Lab_value",
+            "value": "16358500",
+            "confidence": 0.9976516366004944
+        },
+        {
+            "entity": "Date",
+            "value": "/ 2024",
+            "confidence": 0.8443584442138672
+        },
+        {
+            "entity": "Coreference",
+            "value": "encounter",
+            "confidence": 0.8024120926856995
+        },
+        {
+            "entity": "Lab_value",
+            "value": "25. 00 mm",
+            "confidence": 0.9705397486686707
+        },
+        {
+            "entity": "Lab_value",
+            "value": "1",
+            "confidence": 0.9858017563819885
+        },
+        {
+            "entity": "Lab_value",
+            "value": "82 ve / min =",
+            "confidence": 0.9876462817192078
+        },
+        {
+            "entity": "Lab_value",
+            "value": "0",
+            "confidence": 0.8044807314872742
+        },
+        {
+            "entity": "Lab_value",
+            "value": "97 %",
+            "confidence": 0.9480295181274414
+        },
+        {
+            "entity": "Lab_value",
+            "value": "/ 70",
+            "confidence": 0.9486756920814514
+        }
+    ],
+    [
+        {
+            "entity": "Detailed_description",
+            "value": "acute",
+            "confidence": 0.9999711513519287
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "examination",
+            "confidence": 0.9845303297042847
+        },
+        {
+            "entity": "Medication",
+            "value": "medications",
+            "confidence": 0.9995877146720886
+        },
+        {
+            "entity": "Medication",
+            "value": "am",
+            "confidence": 0.999832034111023
+        },
+        {
+            "entity": "Medication",
+            "value": "##oxicillin",
+            "confidence": 0.9770711064338684
+        },
+        {
+            "entity": "Frequency",
+            "value": "every",
+            "confidence": 0.9784262776374817
+        },
+        {
+            "entity": "Medication",
+            "value": "##terol",
+            "confidence": 0.9100099205970764
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "legal",
+            "confidence": 0.9329238533973694
+        },
+        {
+            "entity": "Personal_background",
+            "value": "caucasian",
+            "confidence": 0.8250982165336609
+        }
+    ],
+    [
+        {
+            "entity": "Medication",
+            "value": "medication",
+            "confidence": 0.9995172023773193
+        },
+        {
+            "entity": "Medication",
+            "value": "metro",
+            "confidence": 0.9998452663421631
+        },
+        {
+            "entity": "Medication",
+            "value": "##ni",
+            "confidence": 0.8473275303840637
+        },
+        {
+            "entity": "Medication",
+            "value": "##dazole",
+            "confidence": 0.899663507938385
+        },
+        {
+            "entity": "Dosage",
+            "value": "500mg",
+            "confidence": 0.9951965808868408
+        },
+        {
+            "entity": "Dosage",
+            "value": "100ml",
+            "confidence": 0.8855093121528625
+        },
+        {
+            "entity": "Lab_value",
+            "value": "100 ml",
+            "confidence": 0.804793119430542
+        },
+        {
+            "entity": "Lab_value",
+            "value": "100",
+            "confidence": 0.9992051720619202
+        },
+        {
+            "entity": "Medication",
+            "value": "iv",
+            "confidence": 0.9248563647270203
+        },
+        {
+            "entity": "Medication",
+            "value": "medication",
+            "confidence": 0.9996370077133179
+        },
+        {
+            "entity": "Medication",
+            "value": "ce",
+            "confidence": 0.9998481273651123
+        },
+        {
+            "entity": "Medication",
+            "value": "##ft",
+            "confidence": 0.9885494112968445
+        },
+        {
+            "entity": "Medication",
+            "value": "##riaxone",
+            "confidence": 0.954723596572876
+        },
+        {
+            "entity": "Lab_value",
+            "value": "50",
+            "confidence": 0.9077366590499878
+        },
+        {
+            "entity": "Lab_value",
+            "value": "100",
+            "confidence": 0.9368451237678528
+        },
+        {
+            "entity": "Lab_value",
+            "value": "50",
+            "confidence": 0.980872631072998
+        },
+        {
+            "entity": "Medication",
+            "value": "at",
+            "confidence": 0.9998992681503296
+        },
+        {
+            "entity": "Medication",
+            "value": "##or",
+            "confidence": 0.999681830406189
+        },
+        {
+            "entity": "Medication",
+            "value": "##vas",
+            "confidence": 0.9887678027153015
+        },
+        {
+            "entity": "Medication",
+            "value": "##tatin",
+            "confidence": 0.9188292622566223
+        },
+        {
+            "entity": "Medication",
+            "value": "calcium",
+            "confidence": 0.8587607741355896
+        },
+        {
+            "entity": "Medication",
+            "value": "lev",
+            "confidence": 0.9998891353607178
+        },
+        {
+            "entity": "Medication",
+            "value": "##oth",
+            "confidence": 0.9996121525764465
+        },
+        {
+            "entity": "Medication",
+            "value": "##yroxine sodium",
+            "confidence": 0.8983765244483948
+        },
+        {
+            "entity": "Lab_value",
+            "value": "50",
+            "confidence": 0.8292692303657532
+        },
+        {
+            "entity": "Medication",
+            "value": "potassium",
+            "confidence": 0.9958622455596924
+        }
+    ],
+    [
+        {
+            "entity": "Time",
+            "value": "03 : 25 : 06 pm",
+            "confidence": 0.9690297245979309
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "intermediate stage",
+            "confidence": 0.9995325803756714
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "nonexuda",
+            "confidence": 0.8776853680610657
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "##tive age",
+            "confidence": 0.9597859978675842
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "left eye",
+            "confidence": 0.9997852444648743
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "eye exam",
+            "confidence": 0.9538860321044922
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "age",
+            "confidence": 0.9939000606536865
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "dry",
+            "confidence": 0.9067991971969604
+        },
+        {
+            "entity": "Medication",
+            "value": "areds2 vitamins",
+            "confidence": 0.9688268899917603
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "daily grid",
+            "confidence": 0.9936884045600891
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "dry",
+            "confidence": 0.9316288828849792
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "dry",
+            "confidence": 0.9313486814498901
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "sub",
+            "confidence": 0.9459090232849121
+        },
+        {
+            "entity": "Lab_value",
+            "value": "stable",
+            "confidence": 0.999561607837677
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "re",
+            "confidence": 0.9247342348098755
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "dia",
+            "confidence": 0.9914585947990417
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##ic",
+            "confidence": 0.9903061389923096
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "vision",
+            "confidence": 0.9901449680328369
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "type",
+            "confidence": 0.9955286383628845
+        },
+        {
+            "entity": "Administration",
+            "value": "oral",
+            "confidence": 0.9964851140975952
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "blood sugar",
+            "confidence": 0.9821072816848755
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "hga1c",
+            "confidence": 0.9335898160934448
+        },
+        {
+            "entity": "Lab_value",
+            "value": "6",
+            "confidence": 0.9806481003761292
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "blood sugar",
+            "confidence": 0.9249516725540161
+        },
+        {
+            "entity": "Lab_value",
+            "value": "1 y",
+            "confidence": 0.8342345356941223
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "ce",
+            "confidence": 0.9465592503547668
+        },
+        {
+            "entity": "Lab_value",
+            "value": "stable",
+            "confidence": 0.9930515289306641
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "red",
+            "confidence": 0.989888608455658
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "dryness",
+            "confidence": 0.9976548552513123
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "floaters",
+            "confidence": 0.9995168447494507
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##ds",
+            "confidence": 0.9881167411804199
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "ro",
+            "confidence": 0.9631403684616089
+        },
+        {
+            "entity": "Lab_value",
+            "value": "positive",
+            "confidence": 0.9998332262039185
+        },
+        {
+            "entity": "Lab_value",
+            "value": "negative",
+            "confidence": 0.9998542070388794
+        }
+    ],
+    [
+        {
+            "entity": "Detailed_description",
+            "value": "acute",
+            "confidence": 0.9999544620513916
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "bro",
+            "confidence": 0.9514425992965698
+        },
+        {
+            "entity": "Medication",
+            "value": "medications",
+            "confidence": 0.9993858337402344
+        },
+        {
+            "entity": "Medication",
+            "value": "am",
+            "confidence": 0.9999099969863892
+        },
+        {
+            "entity": "Medication",
+            "value": "##ox",
+            "confidence": 0.999839186668396
+        },
+        {
+            "entity": "Medication",
+            "value": "##icillin",
+            "confidence": 0.9299403429031372
+        },
+        {
+            "entity": "Dosage",
+            "value": "times",
+            "confidence": 0.9065900444984436
+        },
+        {
+            "entity": "Medication",
+            "value": "al",
+            "confidence": 0.9995031356811523
+        },
+        {
+            "entity": "Medication",
+            "value": "##bu",
+            "confidence": 0.9149191379547119
+        },
+        {
+            "entity": "Medication",
+            "value": "##terol",
+            "confidence": 0.9906967878341675
+        },
+        {
+            "entity": "Clinical_event",
+            "value": "follow",
+            "confidence": 0.9815391898155212
+        },
+        {
+            "entity": "Medication",
+            "value": "medications",
+            "confidence": 0.9988584518432617
+        },
+        {
+            "entity": "Lab_value",
+            "value": "07",
+            "confidence": 0.9603481292724609
+        },
+        {
+            "entity": "Time",
+            "value": "7 : 49 am",
+            "confidence": 0.9497469663619995
+        }
+    ],
+    [
+        {
+            "entity": "Lab_value",
+            "value": "1",
+            "confidence": 0.9761916399002075
+        },
+        {
+            "entity": "Lab_value",
+            "value": "132 %",
+            "confidence": 0.9966475963592529
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "colon",
+            "confidence": 0.9982805252075195
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "records",
+            "confidence": 0.9573541283607483
+        },
+        {
+            "entity": "Date",
+            "value": "/ 19 / 2013",
+            "confidence": 0.9508094787597656
+        }
+    ],
+    [
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "bio",
+            "confidence": 0.999333918094635
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "h",
+            "confidence": 0.9996564388275146
+        },
+        {
+            "entity": "Lab_value",
+            "value": "normal",
+            "confidence": 0.9999194145202637
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "biops",
+            "confidence": 0.9858444929122925
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "stomach",
+            "confidence": 0.8290812969207764
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "active",
+            "confidence": 0.981956958770752
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "inflammation",
+            "confidence": 0.9997534155845642
+        },
+        {
+            "entity": "Coreference",
+            "value": "p",
+            "confidence": 0.8342234492301941
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "fold vs polyp",
+            "confidence": 0.9340672492980957
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "colon",
+            "confidence": 0.9839555621147156
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "biopsy",
+            "confidence": 0.8947542905807495
+        },
+        {
+            "entity": "Coreference",
+            "value": "helicobacter pylorus",
+            "confidence": 0.820908784866333
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "in the",
+            "confidence": 0.8000383377075195
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "stomach",
+            "confidence": 0.8767843246459961
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "inflamation",
+            "confidence": 0.8556459546089172
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "ulcer",
+            "confidence": 0.9721295833587646
+        }
+    ],
+    [
+        {
+            "entity": "Time",
+            "value": "10 : 34 : 10 am",
+            "confidence": 0.96941739320755
+        },
+        {
+            "entity": "Time",
+            "value": "-",
+            "confidence": 0.8066539168357849
+        },
+        {
+            "entity": "Time",
+            "value": ": 33",
+            "confidence": 0.8386727571487427
+        }
+    ],
+    [
+        {
+            "entity": "Time",
+            "value": "3",
+            "confidence": 0.8973080515861511
+        },
+        {
+            "entity": "Time",
+            "value": "49 : 00 pm",
+            "confidence": 0.8349854946136475
+        }
+    ],
+    [
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "mr",
+            "confidence": 0.9997592568397522
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "ss",
+            "confidence": 0.9370751976966858
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "acute",
+            "confidence": 0.9998494386672974
+        },
+        {
+            "entity": "Age",
+            "value": "age",
+            "confidence": 0.8029017448425293
+        },
+        {
+            "entity": "History",
+            "value": "hypertension",
+            "confidence": 0.9692280888557434
+        },
+        {
+            "entity": "Clinical_event",
+            "value": "presented",
+            "confidence": 0.9988927245140076
+        },
+        {
+            "entity": "Severity",
+            "value": "severe",
+            "confidence": 0.9996761083602905
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "abdominal",
+            "confidence": 0.9999508857727051
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "pain",
+            "confidence": 0.9999610185623169
+        },
+        {
+            "entity": "Date",
+            "value": "two days prior",
+            "confidence": 0.9627811908721924
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "medications",
+            "confidence": 0.9652774930000305
+        },
+        {
+            "entity": "Medication",
+            "value": "-",
+            "confidence": 0.9880411624908447
+        },
+        {
+            "entity": "Medication",
+            "value": "metformin",
+            "confidence": 0.9397503733634949
+        },
+        {
+            "entity": "Dosage",
+            "value": "500",
+            "confidence": 0.9965865612030029
+        },
+        {
+            "entity": "Medication",
+            "value": "mg -",
+            "confidence": 0.8771861791610718
+        },
+        {
+            "entity": "Medication",
+            "value": "lisinopril",
+            "confidence": 0.8001404404640198
+        },
+        {
+            "entity": "Dosage",
+            "value": "10 mg",
+            "confidence": 0.917385995388031
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "all",
+            "confidence": 0.9889532327651978
+        },
+        {
+            "entity": "Medication",
+            "value": "-",
+            "confidence": 0.9917858242988586
+        },
+        {
+            "entity": "Medication",
+            "value": "penicillin",
+            "confidence": 0.9812129139900208
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "physical examination",
+            "confidence": 0.921728253364563
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "vital",
+            "confidence": 0.997637152671814
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "hr",
+            "confidence": 0.9902639389038086
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "te",
+            "confidence": 0.9982982277870178
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "tenderness",
+            "confidence": 0.9999619722366333
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "right lower quadrant",
+            "confidence": 0.9996342658996582
+        },
+        {
+            "entity": "Time",
+            "value": "7",
+            "confidence": 0.9452791810035706
+        }
+    ],
+    [
+        {
+            "entity": "Lab_value",
+            "value": "75",
+            "confidence": 0.934187114238739
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "pat",
+            "confidence": 0.8662624955177307
+        },
+        {
+            "entity": "Date",
+            "value": "2021",
+            "confidence": 0.9218111634254456
+        },
+        {
+            "entity": "Date",
+            "value": "/ 2019",
+            "confidence": 0.871281623840332
+        },
+        {
+            "entity": "Date",
+            "value": "/ 2014",
+            "confidence": 0.9871519207954407
+        },
+        {
+            "entity": "Date",
+            "value": "/ 23 / 2015",
+            "confidence": 0.8874795436859131
+        },
+        {
+            "entity": "Date",
+            "value": "/ 21 / 2012",
+            "confidence": 0.9073411226272583
+        },
+        {
+            "entity": "Date",
+            "value": "/ 2012",
+            "confidence": 0.891973614692688
+        }
+    ],
+    [
+        {
+            "entity": "Detailed_description",
+            "value": "acute",
+            "confidence": 0.9996917247772217
+        },
+        {
+            "entity": "Duration",
+            "value": "two weeks",
+            "confidence": 0.9827650189399719
+        },
+        {
+            "entity": "Time",
+            "value": "12 : 29 pm",
+            "confidence": 0.8499414324760437
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "left distal femur",
+            "confidence": 0.9988225698471069
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "left leg",
+            "confidence": 0.9992867708206177
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "knee",
+            "confidence": 0.9996080994606018
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "flu shot",
+            "confidence": 0.8614515066146851
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "right knee",
+            "confidence": 0.9156578779220581
+        }
+    ],
+    [
+        {
+            "entity": "Duration",
+            "value": "60 years",
+            "confidence": 0.8452813625335693
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "routine",
+            "confidence": 0.8863304257392883
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "complete",
+            "confidence": 0.9994189739227295
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "eye exam",
+            "confidence": 0.8405007719993591
+        },
+        {
+            "entity": "Severity",
+            "value": "mild",
+            "confidence": 0.9975512623786926
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "frequent",
+            "confidence": 0.9876840710639954
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "blurred",
+            "confidence": 0.9986874461174011
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "near vision",
+            "confidence": 0.9998706579208374
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "right eye",
+            "confidence": 0.9999433159828186
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "pt",
+            "confidence": 0.9982262253761292
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "eye",
+            "confidence": 0.9999352693557739
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "pain * os",
+            "confidence": 0.8803858160972595
+        },
+        {
+            "entity": "Lab_value",
+            "value": "unchanged",
+            "confidence": 0.8965594172477722
+        },
+        {
+            "entity": "Lab_value",
+            "value": "stable",
+            "confidence": 0.9992648959159851
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "diabetes",
+            "confidence": 0.9937078952789307
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "diabetes",
+            "confidence": 0.9866614937782288
+        },
+        {
+            "entity": "Lab_value",
+            "value": "7. 5",
+            "confidence": 0.9991750121116638
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "bs",
+            "confidence": 0.8265182971954346
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "pt",
+            "confidence": 0.9684284925460815
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "changes",
+            "confidence": 0.9475423693656921
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "vision",
+            "confidence": 0.986062228679657
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "bs",
+            "confidence": 0.9933103322982788
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "old floaters",
+            "confidence": 0.9766471982002258
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##va",
+            "confidence": 0.929562509059906
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##va",
+            "confidence": 0.8916022777557373
+        },
+        {
+            "entity": "Lab_value",
+            "value": "other",
+            "confidence": 0.8849788308143616
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##va",
+            "confidence": 0.981126606464386
+        },
+        {
+            "entity": "Time",
+            "value": "10 : 30",
+            "confidence": 0.8025186657905579
+        }
+    ],
+    [
+        {
+            "entity": "Sign_symptom",
+            "value": "allergies",
+            "confidence": 0.9703639149665833
+        },
+        {
+            "entity": "Time",
+            "value": ":",
+            "confidence": 0.8456900119781494
+        },
+        {
+            "entity": "Lab_value",
+            "value": ". 9843",
+            "confidence": 0.8374063968658447
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "f /",
+            "confidence": 0.9304690957069397
+        },
+        {
+            "entity": "Time",
+            "value": "2",
+            "confidence": 0.9962776303291321
+        },
+        {
+            "entity": "Time",
+            "value": "58 : 00 pm",
+            "confidence": 0.9621739983558655
+        },
+        {
+            "entity": "Medication",
+            "value": "medication",
+            "confidence": 0.9790943264961243
+        },
+        {
+            "entity": "Medication",
+            "value": "medications",
+            "confidence": 0.9995197057723999
+        },
+        {
+            "entity": "Medication",
+            "value": "acetaminophen",
+            "confidence": 0.99102383852005
+        },
+        {
+            "entity": "Dosage",
+            "value": "500 mg",
+            "confidence": 0.9994063377380371
+        },
+        {
+            "entity": "Administration",
+            "value": "oral",
+            "confidence": 0.9988896250724792
+        },
+        {
+            "entity": "Administration",
+            "value": "oral",
+            "confidence": 0.993839681148529
+        },
+        {
+            "entity": "Dosage",
+            "value": "8 hours as",
+            "confidence": 0.8203769326210022
+        },
+        {
+            "entity": "Administration",
+            "value": "ad",
+            "confidence": 0.8819207549095154
+        },
+        {
+            "entity": "Dosage",
+            "value": "200 mg",
+            "confidence": 0.9988954067230225
+        },
+        {
+            "entity": "Administration",
+            "value": "oral",
+            "confidence": 0.9980290532112122
+        },
+        {
+            "entity": "Administration",
+            "value": "tablet",
+            "confidence": 0.8744463920593262
+        },
+        {
+            "entity": "Administration",
+            "value": "oral",
+            "confidence": 0.9934005737304688
+        },
+        {
+            "entity": "Dosage",
+            "value": "3 times a day",
+            "confidence": 0.9205118417739868
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "pain",
+            "confidence": 0.9905624985694885
+        },
+        {
+            "entity": "Medication",
+            "value": "as",
+            "confidence": 0.999858021736145
+        },
+        {
+            "entity": "Dosage",
+            "value": "81 mg",
+            "confidence": 0.9983200430870056
+        },
+        {
+            "entity": "Administration",
+            "value": "tablet",
+            "confidence": 0.8899789452552795
+        },
+        {
+            "entity": "Date",
+            "value": "lunch",
+            "confidence": 0.9129283428192139
+        },
+        {
+            "entity": "Medication",
+            "value": "lev",
+            "confidence": 0.9998441934585571
+        },
+        {
+            "entity": "Medication",
+            "value": "##oth",
+            "confidence": 0.9998281002044678
+        },
+        {
+            "entity": "Medication",
+            "value": "##yroxine",
+            "confidence": 0.9214343428611755
+        },
+        {
+            "entity": "Dosage",
+            "value": "50 mc",
+            "confidence": 0.9980596303939819
+        }
+    ],
+    [
+        {
+            "entity": "Detailed_description",
+            "value": "- web",
+            "confidence": 0.8730141520500183
+        },
+        {
+            "entity": "Lab_value",
+            "value": "82",
+            "confidence": 0.9073015451431274
+        },
+        {
+            "entity": "Lab_value",
+            "value": "1 / 7",
+            "confidence": 0.9568130373954773
+        },
+        {
+            "entity": "Lab_value",
+            "value": "132 %",
+            "confidence": 0.9997643232345581
+        },
+        {
+            "entity": "Lab_value",
+            "value": "82",
+            "confidence": 0.9998317956924438
+        },
+        {
+            "entity": "Time",
+            "value": ": 01 pm",
+            "confidence": 0.9362226128578186
+        }
+    ],
+    [
+        {
+            "entity": "Disease_disorder",
+            "value": "pt",
+            "confidence": 0.9794855117797852
+        },
+        {
+            "entity": "Lab_value",
+            "value": "155. 40",
+            "confidence": 0.9676487445831299
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##ergies",
+            "confidence": 0.881986677646637
+        },
+        {
+            "entity": "Medication",
+            "value": "medications",
+            "confidence": 0.8569169640541077
+        },
+        {
+            "entity": "Lab_value",
+            "value": "10",
+            "confidence": 0.8900720477104187
+        },
+        {
+            "entity": "Time",
+            "value": "12 : 00 am",
+            "confidence": 0.961017906665802
+        },
+        {
+            "entity": "Lab_value",
+            "value": "1",
+            "confidence": 0.9531135559082031
+        },
+        {
+            "entity": "Time",
+            "value": "12 : 00 am",
+            "confidence": 0.9370578527450562
+        },
+        {
+            "entity": "Time",
+            "value": ": 04 pm",
+            "confidence": 0.8716940879821777
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "bp",
+            "confidence": 0.9977260231971741
+        },
+        {
+            "entity": "Lab_value",
+            "value": "1 of 8",
+            "confidence": 0.9921495914459229
+        },
+        {
+            "entity": "Lab_value",
+            "value": "100 %",
+            "confidence": 0.9080667495727539
+        },
+        {
+            "entity": "Time",
+            "value": "10 : 26 : 17 am",
+            "confidence": 0.9240260720252991
+        }
+    ],
+    [
+        {
+            "entity": "Lab_value",
+            "value": "180. 00 lb",
+            "confidence": 0.9995201826095581
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "alert",
+            "confidence": 0.9668349623680115
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "allergies",
+            "confidence": 0.9963642954826355
+        },
+        {
+            "entity": "Lab_value",
+            "value": "0 problems",
+            "confidence": 0.9981410503387451
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "spanish",
+            "confidence": 0.9684602618217468
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "cm",
+            "confidence": 0.8690284490585327
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "phi log",
+            "confidence": 0.8789784908294678
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "sticky",
+            "confidence": 0.9656994342803955
+        },
+        {
+            "entity": "Time",
+            "value": "03 : 07 am",
+            "confidence": 0.9782028198242188
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "\"",
+            "confidence": 0.8322665095329285
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "ds",
+            "confidence": 0.9628216028213501
+        },
+        {
+            "entity": "Lab_value",
+            "value": "612 x 792 - 24",
+            "confidence": 0.9518113136291504
+        },
+        {
+            "entity": "Lab_value",
+            "value": "##p",
+            "confidence": 0.9997430443763733
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "f",
+            "confidence": 0.9943450689315796
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "t",
+            "confidence": 0.9694139957427979
+        },
+        {
+            "entity": "Lab_value",
+            "value": "1",
+            "confidence": 0.9980959296226501
+        },
+        {
+            "entity": "Lab_value",
+            "value": "7",
+            "confidence": 0.9991693496704102
+        },
+        {
+            "entity": "Lab_value",
+            "value": "141. 99 %",
+            "confidence": 0.9900998473167419
+        },
+        {
+            "entity": "Clinical_event",
+            "value": "discharge",
+            "confidence": 0.8736224174499512
+        },
+        {
+            "entity": "Lab_value",
+            "value": "151",
+            "confidence": 0.9734500050544739
+        },
+        {
+            "entity": "Therapeutic_procedure",
+            "value": "kidney transplant",
+            "confidence": 0.9975989460945129
+        },
+        {
+            "entity": "Clinical_event",
+            "value": "discharge",
+            "confidence": 0.9859967827796936
+        },
+        {
+            "entity": "Sex",
+            "value": "female",
+            "confidence": 0.9974299073219299
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "dia",
+            "confidence": 0.9971126317977905
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "##betic nephropathy",
+            "confidence": 0.9611153602600098
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "hypertensive nephropathy",
+            "confidence": 0.9289758801460266
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "/",
+            "confidence": 0.9767598509788513
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "dd",
+            "confidence": 0.9633034467697144
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "an",
+            "confidence": 0.9994645714759827
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##uria",
+            "confidence": 0.9751655459403992
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "oliguria",
+            "confidence": 0.8917627334594727
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "hospital",
+            "confidence": 0.945239782333374
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##yp",
+            "confidence": 0.9433626532554626
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##oca",
+            "confidence": 0.9948235750198364
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##lcemia",
+            "confidence": 0.8821666240692139
+        }
+    ],
+    [
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "renal",
+            "confidence": 0.9878132343292236
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "glucose 74",
+            "confidence": 0.8607074618339539
+        },
+        {
+            "entity": "Lab_value",
+            "value": "99 mg / dl",
+            "confidence": 0.9997658729553223
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "sodium",
+            "confidence": 0.999829888343811
+        },
+        {
+            "entity": "Lab_value",
+            "value": "136 - 145 mmol / l",
+            "confidence": 0.9284537434577942
+        },
+        {
+            "entity": "Lab_value",
+            "value": "136 |",
+            "confidence": 0.9212769269943237
+        },
+        {
+            "entity": "Lab_value",
+            "value": "138",
+            "confidence": 0.8113671541213989
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "potassium",
+            "confidence": 0.9997853636741638
+        },
+        {
+            "entity": "Lab_value",
+            "value": "3. 5 - 5. 3 mmol / l",
+            "confidence": 0.9995779395103455
+        },
+        {
+            "entity": "Lab_value",
+            "value": "3. 7 |",
+            "confidence": 0.9129481911659241
+        },
+        {
+            "entity": "Lab_value",
+            "value": "3. 7 | 4. 3",
+            "confidence": 0.9282661080360413
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "|",
+            "confidence": 0.8915063738822937
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "chloride",
+            "confidence": 0.9991913437843323
+        },
+        {
+            "entity": "Lab_value",
+            "value": "98 -",
+            "confidence": 0.9134158492088318
+        },
+        {
+            "entity": "Lab_value",
+            "value": "107 mmol / l",
+            "confidence": 0.9863770604133606
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "bi",
+            "confidence": 0.985692024230957
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "an",
+            "confidence": 0.9990216493606567
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "##ion gap",
+            "confidence": 0.9957748055458069
+        },
+        {
+            "entity": "Lab_value",
+            "value": "10 - 20 mmol",
+            "confidence": 0.9710214734077454
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "|",
+            "confidence": 0.9930954575538635
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "cr",
+            "confidence": 0.9999154806137085
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "##eatinine",
+            "confidence": 0.8657991290092468
+        },
+        {
+            "entity": "Lab_value",
+            "value": "0. 50 1. 30 mg / dl",
+            "confidence": 0.9553823471069336
+        },
+        {
+            "entity": "Lab_value",
+            "value": "0",
+            "confidence": 0.8946013450622559
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "e",
+            "confidence": 0.9989481568336487
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "g",
+            "confidence": 0.9877661466598511
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "race",
+            "confidence": 0.8526061773300171
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "variable",
+            "confidence": 0.8022825717926025
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "crea",
+            "confidence": 0.9876097440719604
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "as",
+            "confidence": 0.9992241859436035
+        },
+        {
+            "entity": "Lab_value",
+            "value": "##2021070988 8. 7 8. 7 8. 7",
+            "confidence": 0.9568004608154297
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "calcium",
+            "confidence": 0.9991059899330139
+        },
+        {
+            "entity": "Lab_value",
+            "value": "8. 6 - 10. 3 mg / dl",
+            "confidence": 0.9997808337211609
+        },
+        {
+            "entity": "Lab_value",
+            "value": "3. 5 cm 3. 6 3. 6 cm",
+            "confidence": 0.9732242226600647
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "phosphorus",
+            "confidence": 0.9999041557312012
+        },
+        {
+            "entity": "Lab_value",
+            "value": "2. 5 - 4. 9 mg / dl",
+            "confidence": 0.9993278384208679
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "phosphorus testing",
+            "confidence": 0.999386191368103
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "heparinized plasma",
+            "confidence": 0.9938367009162903
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "heparinized plasma",
+            "confidence": 0.97930908203125
+        },
+        {
+            "entity": "Lab_value",
+            "value": "3",
+            "confidence": 0.9009077548980713
+        },
+        {
+            "entity": "Lab_value",
+            "value": ". 4 5. 0 g",
+            "confidence": 0.8944666385650635
+        }
+    ],
+    [
+        {
+            "entity": "Detailed_description",
+            "value": "acute",
+            "confidence": 0.9999669790267944
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "bro",
+            "confidence": 0.8946607708930969
+        },
+        {
+            "entity": "Medication",
+            "value": "medications",
+            "confidence": 0.9998685121536255
+        },
+        {
+            "entity": "Medication",
+            "value": "am",
+            "confidence": 0.999903678894043
+        },
+        {
+            "entity": "Medication",
+            "value": "##ox",
+            "confidence": 0.9993845224380493
+        },
+        {
+            "entity": "Dosage",
+            "value": "500",
+            "confidence": 0.9977365732192993
+        },
+        {
+            "entity": "Dosage",
+            "value": "3 times a day",
+            "confidence": 0.8405988812446594
+        },
+        {
+            "entity": "Duration",
+            "value": "7 days",
+            "confidence": 0.8445758819580078
+        }
+    ],
+    [
+        {
+            "entity": "Detailed_description",
+            "value": "acute",
+            "confidence": 0.9999523162841797
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "examination",
+            "confidence": 0.9119630455970764
+        },
+        {
+            "entity": "Medication",
+            "value": "medications",
+            "confidence": 0.8257096409797668
+        },
+        {
+            "entity": "Medication",
+            "value": "am",
+            "confidence": 0.9998958110809326
+        },
+        {
+            "entity": "Medication",
+            "value": "##oxicillin",
+            "confidence": 0.9649680256843567
+        },
+        {
+            "entity": "Dosage",
+            "value": "500",
+            "confidence": 0.9986773133277893
+        },
+        {
+            "entity": "Dosage",
+            "value": "one",
+            "confidence": 0.9505888223648071
+        },
+        {
+            "entity": "Frequency",
+            "value": "every",
+            "confidence": 0.8606827259063721
+        },
+        {
+            "entity": "Dosage",
+            "value": "8 hours for",
+            "confidence": 0.982510507106781
+        },
+        {
+            "entity": "Dosage",
+            "value": "days",
+            "confidence": 0.8943426012992859
+        },
+        {
+            "entity": "Medication",
+            "value": "ibuprofen",
+            "confidence": 0.8803503513336182
+        },
+        {
+            "entity": "Dosage",
+            "value": "200mg",
+            "confidence": 0.8848612904548645
+        },
+        {
+            "entity": "Dosage",
+            "value": "6 hours",
+            "confidence": 0.9860780239105225
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "pain",
+            "confidence": 0.9998237490653992
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "worsening conditions",
+            "confidence": 0.9341138005256653
+        },
+        {
+            "entity": "Duration",
+            "value": "82",
+            "confidence": 0.8474829792976379
+        },
+        {
+            "entity": "Lab_value",
+            "value": "116. 00 lb",
+            "confidence": 0.9405471682548523
+        },
+        {
+            "entity": "Lab_value",
+            "value": "4",
+            "confidence": 0.9993876218795776
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##gies",
+            "confidence": 0.9777927398681641
+        },
+        {
+            "entity": "Lab_value",
+            "value": "0",
+            "confidence": 0.9994451403617859
+        },
+        {
+            "entity": "Lab_value",
+            "value": "329",
+            "confidence": 0.8007953763008118
+        },
+        {
+            "entity": "Medication",
+            "value": "medications",
+            "confidence": 0.9936583638191223
+        },
+        {
+            "entity": "Lab_value",
+            "value": "15",
+            "confidence": 0.9999097585678101
+        },
+        {
+            "entity": "Lab_value",
+            "value": "4",
+            "confidence": 0.9998718500137329
+        },
+        {
+            "entity": "Time",
+            "value": "01 :",
+            "confidence": 0.8187553286552429
+        },
+        {
+            "entity": "Time",
+            "value": "27 pm \"",
+            "confidence": 0.8536245226860046
+        },
+        {
+            "entity": "Time",
+            "value": "9 : 56 am",
+            "confidence": 0.9962844848632812
+        }
+    ],
+    [
+        {
+            "entity": "Time",
+            "value": "/",
+            "confidence": 0.8231262564659119
+        },
+        {
+            "entity": "Time",
+            "value": "16 : 26 : 46",
+            "confidence": 0.9821418523788452
+        },
+        {
+            "entity": "Diagnostic_procedure",
+            "value": "ph",
+            "confidence": 0.99937903881073
+        },
+        {
+            "entity": "Lab_value",
+            "value": "18883715402",
+            "confidence": 0.9620252847671509
+        },
+        {
+            "entity": "Time",
+            "value": "4 : 23 pm",
+            "confidence": 0.9956769347190857
+        },
+        {
+            "entity": "Clinical_event",
+            "value": "discharge",
+            "confidence": 0.9610435366630554
+        },
+        {
+            "entity": "Clinical_event",
+            "value": "discharge",
+            "confidence": 0.9945240020751953
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "swelling",
+            "confidence": 0.9999551773071289
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "pc",
+            "confidence": 0.8443987965583801
+        },
+        {
+            "entity": "Time",
+            "value": "2 : 06 pm",
+            "confidence": 0.9389863014221191
+        },
+        {
+            "entity": "Time",
+            "value": "2",
+            "confidence": 0.9943696856498718
+        },
+        {
+            "entity": "Time",
+            "value": ": 17 pm",
+            "confidence": 0.9698770046234131
+        },
+        {
+            "entity": "Time",
+            "value": "2",
+            "confidence": 0.8309434652328491
+        },
+        {
+            "entity": "Time",
+            "value": "06 pm",
+            "confidence": 0.9828147292137146
+        },
+        {
+            "entity": "Time",
+            "value": "2 : 15 pm",
+            "confidence": 0.9512353539466858
+        },
+        {
+            "entity": "Time",
+            "value": "3 : 38 pm",
+            "confidence": 0.9528629779815674
+        },
+        {
+            "entity": "Time",
+            "value": "3 : 38 pm",
+            "confidence": 0.9544882774353027
+        },
+        {
+            "entity": "Time",
+            "value": "11 : 20 am",
+            "confidence": 0.9919953346252441
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "encephalopathy",
+            "confidence": 0.9957512021064758
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "posterior pharyngitis",
+            "confidence": 0.9014951586723328
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "h",
+            "confidence": 0.9998037219047546
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "##yp",
+            "confidence": 0.9990376234054565
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "##othyroidism",
+            "confidence": 0.9787658452987671
+        },
+        {
+            "entity": "Disease_disorder",
+            "value": "hypertension",
+            "confidence": 0.9997844099998474
+        },
+        {
+            "entity": "Time",
+            "value": "2",
+            "confidence": 0.9969682097434998
+        },
+        {
+            "entity": "Time",
+            "value": ": 06 pm",
+            "confidence": 0.9587375521659851
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "hyper",
+            "confidence": 0.9971407651901245
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##cho",
+            "confidence": 0.9905477166175842
+        },
+        {
+            "entity": "Sign_symptom",
+            "value": "##terolemia",
+            "confidence": 0.8722479343414307
+        },
+        {
+            "entity": "Detailed_description",
+            "value": "advanced",
+            "confidence": 0.9996517896652222
+        },
+        {
+            "entity": "Biological_structure",
+            "value": "hip",
+            "confidence": 0.9568376541137695
+        }
+    ]
+]
